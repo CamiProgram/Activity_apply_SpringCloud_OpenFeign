@@ -1,0 +1,9 @@
+com\clubdeportivo2\servicioreservas\services\ReservaServices.class
+com\clubdeportivo2\servicioreservas\feign_client\CanchaClient.class
+com\clubdeportivo2\servicioreservas\config\WebClientConfig.class
+com\clubdeportivo2\servicioreservas\repository\ReservaRepository.class
+com\clubdeportivo2\servicioreservas\services\ReservaServicesImpl.class
+com\clubdeportivo2\servicioreservas\model\Reserva.class
+com\clubdeportivo2\servicioreservas\ServicioreservasApplication.class
+com\clubdeportivo2\servicioreservas\controller\ReservaController.class
+com\clubdeportivo2\servicioreservas\model\dto\Cancha.class
